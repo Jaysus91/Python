@@ -23,4 +23,6 @@ print(result)
 #             return i
 #     return -1
 
-print(lis.index(5))
+# just use list.index(value) instead
+
+# BINARY SEARCH
